@@ -1,0 +1,41 @@
+
+biubiu_007.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cicles
+  rotate: false
+  xy: 2, 2
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: true
+  xy: 2, 17
+  size: 34, 307
+  orig: 34, 307
+  offset: 0, 0
+  index: -1
+diguang2
+  rotate: true
+  xy: 347, 36
+  size: 41, 153
+  orig: 41, 153
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 53
+  size: 24, 343
+  orig: 24, 343
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: true
+  xy: 2, 79
+  size: 26, 395
+  orig: 26, 395
+  offset: 0, 0
+  index: -1

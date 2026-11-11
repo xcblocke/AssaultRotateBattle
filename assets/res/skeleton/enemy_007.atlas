@@ -1,0 +1,174 @@
+
+enemy_007.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007bei
+  rotate: true
+  xy: 302, 109
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+007bei2
+  rotate: true
+  xy: 347, 109
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+007body
+  rotate: false
+  xy: 48, 38
+  size: 42, 88
+  orig: 42, 88
+  offset: 0, 0
+  index: -1
+007hand
+  rotate: false
+  xy: 145, 45
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+007hand1
+  rotate: true
+  xy: 195, 76
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+007hand3
+  rotate: true
+  xy: 195, 53
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+007hand4
+  rotate: false
+  xy: 170, 45
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+007leg1
+  rotate: false
+  xy: 392, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+007leg2
+  rotate: false
+  xy: 96, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+007leg3
+  rotate: false
+  xy: 426, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+007leg4
+  rotate: false
+  xy: 127, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+007shadow1
+  rotate: true
+  xy: 208, 108
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+007shadow10
+  rotate: true
+  xy: 92, 113
+  size: 13, 114
+  orig: 13, 114
+  offset: 0, 0
+  index: -1
+007shadow11
+  rotate: true
+  xy: 255, 108
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+007shadow12
+  rotate: true
+  xy: 28, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+007shadow2
+  rotate: false
+  xy: 460, 108
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+007shadow3
+  rotate: false
+  xy: 119, 43
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+007shadow4
+  rotate: false
+  xy: 485, 108
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+007shadow5
+  rotate: false
+  xy: 92, 43
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+007shadow6
+  rotate: false
+  xy: 2, 37
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+007shadow7
+  rotate: true
+  xy: 54, 6
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+007shadow8
+  rotate: true
+  xy: 2, 2
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+007shadow9
+  rotate: false
+  xy: 158, 3
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+007shetou
+  rotate: true
+  xy: 92, 99
+  size: 12, 113
+  orig: 12, 113
+  offset: 0, 0
+  index: -1

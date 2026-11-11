@@ -1,0 +1,57 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 1334,
+  "design-resolution-width": 750,
+  "excluded-modules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": false,
+  "fit-width": true,
+  "group-list": [
+    "ui",
+    "game",
+    "bg"
+  ],
+  "last-module-event-record-time": 1653894360688,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "28392856-b7ab-45fe-ae3e-8e902874b1c4",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

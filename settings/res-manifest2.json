@@ -1,0 +1,20 @@
+[
+	"db://assets/scene/Menu.fire",
+	"db://assets/resources/gameList/FirstScene_P.fire",
+	"db://assets/resources/prefab/HomeScene.prefab",
+	"db://assets/resources/prefab/separationLayer.prefab",
+	"db://assets/resources/prefab/textTips.prefab",
+	"db://assets/resources/prefab/tips.prefab",
+	"db://assets/resources/prefab/color.prefab",
+	"db://assets/resources/prefab/guideCircle.prefab",
+	"db://assets/resources/prefab/guideSke.prefab",
+	"db://assets/resources/data/bullet_up_full.json",
+	"db://assets/resources/data/enemy_full.json",
+	"db://assets/resources/data/enemy_up_full.json",
+	"db://assets/resources/data/gold_up_full.json",
+	"db://assets/resources/data/level_full.json",
+	"db://assets/resources/data/prop_full.json",
+	"db://assets/resources/data/startem_full.json",
+	"db://assets/resources/data/weapon_full.json",
+	"db://assets/resources/data/weapon_up_full.json"
+]

@@ -1,0 +1,76 @@
+
+biubiu_010.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 298, 2
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 299, 88
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 2, 42
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 310, 358
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 153, 58
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 153, 201
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 2, 347
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 159, 347
+  size: 149, 154
+  orig: 149, 154
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 2, 188
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 299, 212
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1

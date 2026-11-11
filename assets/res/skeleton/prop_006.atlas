@@ -1,0 +1,34 @@
+
+prop_006.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boomE01
+  rotate: false
+  xy: 196, 9
+  size: 90, 394
+  orig: 90, 394
+  offset: 0, 0
+  index: -1
+boomE02
+  rotate: false
+  xy: 2, 2
+  size: 98, 401
+  orig: 98, 401
+  offset: 0, 0
+  index: -1
+boomE03
+  rotate: false
+  xy: 288, 4
+  size: 84, 399
+  orig: 84, 399
+  offset: 0, 0
+  index: -1
+boomE04
+  rotate: false
+  xy: 102, 9
+  size: 92, 394
+  orig: 92, 394
+  offset: 0, 0
+  index: -1

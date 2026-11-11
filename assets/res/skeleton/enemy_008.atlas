@@ -1,0 +1,118 @@
+
+enemy_008.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+008armL
+  rotate: false
+  xy: 427, 38
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+008armLS
+  rotate: true
+  xy: 384, 4
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+008armR
+  rotate: false
+  xy: 452, 82
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+008armRS
+  rotate: true
+  xy: 409, 80
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+008body
+  rotate: true
+  xy: 339, 48
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+008bodyS
+  rotate: true
+  xy: 268, 46
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+008handL
+  rotate: true
+  xy: 60, 4
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+008handLS
+  rotate: true
+  xy: 2, 2
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+008handR
+  rotate: true
+  xy: 176, 12
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+008handRS
+  rotate: true
+  xy: 116, 10
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+008hips
+  rotate: false
+  xy: 328, 10
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+008hipsS
+  rotate: false
+  xy: 271, 8
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+008leg
+  rotate: true
+  xy: 253, 9
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+008legS
+  rotate: true
+  xy: 234, 8
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+008weap
+  rotate: true
+  xy: 136, 32
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+008weapS
+  rotate: true
+  xy: 2, 31
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1

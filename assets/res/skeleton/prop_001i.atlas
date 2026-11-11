@@ -1,0 +1,27 @@
+
+prop_001i.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add
+  rotate: false
+  xy: 2, 16
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+prop_001i
+  rotate: false
+  xy: 50, 16
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+white
+  rotate: true
+  xy: 2, 2
+  size: 12, 66
+  orig: 12, 66
+  offset: 0, 0
+  index: -1

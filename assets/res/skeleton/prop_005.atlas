@@ -1,0 +1,48 @@
+
+prop_005.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boomD1
+  rotate: true
+  xy: 158, 12
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+boomD2
+  rotate: false
+  xy: 2, 2
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+boomD3
+  rotate: false
+  xy: 381, 90
+  size: 108, 24
+  orig: 108, 24
+  offset: 0, 0
+  index: -1
+boomD4
+  rotate: false
+  xy: 158, 70
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+boomD5
+  rotate: true
+  xy: 285, 59
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+boomD6
+  rotate: false
+  xy: 80, 4
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1

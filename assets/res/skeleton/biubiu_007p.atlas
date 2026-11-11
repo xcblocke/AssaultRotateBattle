@@ -1,0 +1,83 @@
+
+biubiu_007p.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007pquan
+  rotate: false
+  xy: 2, 14
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+007pquan2
+  rotate: false
+  xy: 48, 17
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 24, 9
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+l11
+  rotate: false
+  xy: 18, 3
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+l13
+  rotate: true
+  xy: 2, 8
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+l14
+  rotate: true
+  xy: 2, 2
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 95, 26
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 18, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 89, 25
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+l6
+  rotate: false
+  xy: 12, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+l7
+  rotate: false
+  xy: 83, 21
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1

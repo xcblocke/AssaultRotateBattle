@@ -1,0 +1,83 @@
+
+enemy_003.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003body
+  rotate: false
+  xy: 123, 18
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+003body2
+  rotate: false
+  xy: 164, 18
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+003eyes
+  rotate: false
+  xy: 2, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+003head
+  rotate: false
+  xy: 42, 11
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+003leg
+  rotate: false
+  xy: 205, 16
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+003leg2
+  rotate: false
+  xy: 228, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+003shadow1
+  rotate: false
+  xy: 2, 10
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+003shadow2
+  rotate: false
+  xy: 80, 17
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+003shadow3
+  rotate: true
+  xy: 230, 10
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+003shadow4
+  rotate: false
+  xy: 205, 36
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+003shadow5
+  rotate: false
+  xy: 80, 7
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+enemy_006.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004knife
+  rotate: true
+  xy: 274, 37
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+004knifes
+  rotate: true
+  xy: 222, 35
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+006body
+  rotate: false
+  xy: 69, 7
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+006hand1
+  rotate: false
+  xy: 360, 35
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+006hand2
+  rotate: false
+  xy: 222, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+006hand3
+  rotate: false
+  xy: 360, 6
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+006hand4
+  rotate: false
+  xy: 248, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+006hat
+  rotate: false
+  xy: 179, 21
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+006shadow1
+  rotate: false
+  xy: 2, 5
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+006shadow2
+  rotate: false
+  xy: 134, 19
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+006shadow3
+  rotate: false
+  xy: 328, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+006shadow4
+  rotate: false
+  xy: 274, 2
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+006shadow5
+  rotate: false
+  xy: 328, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+006shadow6
+  rotate: false
+  xy: 301, 2
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

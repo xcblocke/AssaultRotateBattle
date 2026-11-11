@@ -1,0 +1,41 @@
+
+prop_004.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boomC01
+  rotate: false
+  xy: 35, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+boomC02
+  rotate: false
+  xy: 2, 28
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+boomC03
+  rotate: true
+  xy: 53, 43
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+boomC04
+  rotate: false
+  xy: 37, 17
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+boomC05
+  rotate: false
+  xy: 2, 2
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1

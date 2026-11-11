@@ -1,0 +1,104 @@
+
+gameStart.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt
+  rotate: false
+  xy: 1461, 1916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dt2
+  rotate: false
+  xy: 1563, 1916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_sy001
+  rotate: true
+  xy: 610, 798
+  size: 780, 367
+  orig: 780, 367
+  offset: 0, 0
+  index: -1
+eff_sy002
+  rotate: false
+  xy: 571, 776
+  size: 37, 1240
+  orig: 37, 1240
+  offset: 0, 0
+  index: -1
+frame_sy001
+  rotate: false
+  xy: 610, 1580
+  size: 750, 436
+  orig: 750, 436
+  offset: 0, 0
+  index: -1
+frame_sy002
+  rotate: true
+  xy: 979, 828
+  size: 750, 334
+  orig: 750, 334
+  offset: 0, 0
+  index: -1
+frame_sy003
+  rotate: true
+  xy: 2, 2
+  size: 186, 242
+  orig: 186, 242
+  offset: 0, 0
+  index: -1
+frame_sy004
+  rotate: false
+  xy: 2, 190
+  size: 412, 500
+  orig: 412, 500
+  offset: 0, 0
+  index: -1
+frame_sy005
+  rotate: false
+  xy: 2, 692
+  size: 567, 1324
+  orig: 567, 1324
+  offset: 0, 0
+  index: -1
+frame_sy006
+  rotate: false
+  xy: 246, 65
+  size: 80, 123
+  orig: 80, 123
+  offset: 0, 0
+  index: -1
+frame_sy007
+  rotate: false
+  xy: 1362, 1904
+  size: 97, 112
+  orig: 97, 112
+  offset: 0, 0
+  index: -1
+frame_sy008
+  rotate: false
+  xy: 416, 420
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+frame_sy009
+  rotate: true
+  xy: 1315, 828
+  size: 750, 214
+  orig: 750, 214
+  offset: 0, 0
+  index: -1
+frame_sy010
+  rotate: false
+  xy: 416, 506
+  size: 88, 184
+  orig: 88, 184
+  offset: 0, 0
+  index: -1

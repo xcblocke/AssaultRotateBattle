@@ -1,0 +1,11 @@
+{
+  "gameListFileUrl": "db://assets/resources/gameList/jumpList_full.json",
+  "serverUrl": "http://192.168.80.16:8005",
+  "gameId": 2,
+  "jumpListEnable": false,
+  "appIdList": false,
+  "uploadResEnable": false,
+  "uploadImportDirEnable": false,
+  "optimization": false,
+  "subPkgUpload": false
+}

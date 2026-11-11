@@ -1,0 +1,48 @@
+
+roloSupply.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 2, 20
+  size: 17, 93
+  orig: 17, 93
+  offset: 0, 0
+  index: -1
+prop_009
+  rotate: false
+  xy: 134, 5
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+prop_011
+  rotate: false
+  xy: 166, 7
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+prop_012
+  rotate: false
+  xy: 97, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+rec
+  rotate: true
+  xy: 97, 39
+  size: 17, 93
+  orig: 17, 93
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: true
+  xy: 2, 39
+  size: 17, 93
+  orig: 17, 93
+  offset: 0, 0
+  index: -1

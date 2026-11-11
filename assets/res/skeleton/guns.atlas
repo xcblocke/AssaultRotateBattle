@@ -1,0 +1,167 @@
+
+guns.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 403, 160
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 403, 230
+  size: 176, 78
+  orig: 176, 78
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 92, 116
+  size: 185, 105
+  orig: 185, 105
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 207, 223
+  size: 194, 88
+  orig: 194, 88
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 207, 403
+  size: 190, 104
+  orig: 190, 104
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 778, 419
+  size: 196, 88
+  orig: 196, 88
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 778, 348
+  size: 201, 69
+  orig: 201, 69
+  offset: 0, 0
+  index: -1
+008
+  rotate: true
+  xy: 2, 95
+  size: 206, 88
+  orig: 206, 88
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 2, 406
+  size: 203, 101
+  orig: 203, 101
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 581, 234
+  size: 180, 76
+  orig: 180, 76
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 415, 310
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+glwo
+  rotate: false
+  xy: 976, 429
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+gun_001
+  rotate: false
+  xy: 395, 90
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+gun_002
+  rotate: false
+  xy: 199, 53
+  size: 176, 78
+  orig: 176, 78
+  offset: 0, 0
+  index: -1
+gun_003
+  rotate: false
+  xy: 591, 402
+  size: 185, 105
+  orig: 185, 105
+  offset: 0, 0
+  index: -1
+gun_004
+  rotate: false
+  xy: 199, 133
+  size: 194, 88
+  orig: 194, 88
+  offset: 0, 0
+  index: -1
+gun_005
+  rotate: false
+  xy: 399, 403
+  size: 190, 104
+  orig: 190, 104
+  offset: 0, 0
+  index: -1
+gun_006
+  rotate: false
+  xy: 574, 312
+  size: 196, 88
+  orig: 196, 88
+  offset: 0, 0
+  index: -1
+gun_007
+  rotate: false
+  xy: 772, 277
+  size: 201, 69
+  orig: 201, 69
+  offset: 0, 0
+  index: -1
+gun_008
+  rotate: false
+  xy: 207, 313
+  size: 206, 88
+  orig: 206, 88
+  offset: 0, 0
+  index: -1
+gun_009
+  rotate: false
+  xy: 2, 303
+  size: 203, 101
+  orig: 203, 101
+  offset: 0, 0
+  index: -1
+gun_010
+  rotate: false
+  xy: 763, 199
+  size: 180, 76
+  orig: 180, 76
+  offset: 0, 0
+  index: -1
+gun_011
+  rotate: false
+  xy: 2, 2
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1

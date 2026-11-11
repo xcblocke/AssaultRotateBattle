@@ -1,0 +1,83 @@
+
+biubiu_006.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 171, 115
+  size: 110, 219
+  orig: 110, 219
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 60
+  size: 82, 274
+  orig: 82, 274
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 437, 253
+  size: 81, 226
+  orig: 81, 226
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 86, 77
+  size: 83, 257
+  orig: 83, 257
+  offset: 0, 0
+  index: -1
+jiguang
+  rotate: true
+  xy: 2, 336
+  size: 29, 832
+  orig: 29, 832
+  offset: 0, 0
+  index: -1
+jiguangglow
+  rotate: true
+  xy: 2, 367
+  size: 132, 914
+  orig: 132, 914
+  offset: 0, 0
+  index: -1
+jiguangqiu
+  rotate: false
+  xy: 2, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+jiguangqiuglow
+  rotate: false
+  xy: 283, 178
+  size: 152, 156
+  orig: 152, 156
+  offset: 0, 0
+  index: -1
+zhongdian
+  rotate: false
+  xy: 836, 357
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+zhongdianquan
+  rotate: false
+  xy: 171, 80
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+zhuqiu
+  rotate: false
+  xy: 918, 444
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

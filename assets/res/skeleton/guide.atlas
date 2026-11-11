@@ -1,0 +1,41 @@
+
+guide.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle1
+  rotate: false
+  xy: 270, 155
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 270, 283
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 2
+  size: 188, 157
+  orig: 188, 157
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 416, 333
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 2, 161
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1

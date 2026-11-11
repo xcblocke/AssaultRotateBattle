@@ -1,0 +1,27 @@
+
+prop_002.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boomA01
+  rotate: false
+  xy: 73, 20
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+boomA02
+  rotate: true
+  xy: 41, 6
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+boomA03
+  rotate: true
+  xy: 2, 2
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
